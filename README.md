@@ -167,3 +167,8 @@ Hard          ██
 <p align="center">
 ⭐ If you find this repository useful, consider giving it a star!
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/prateekyadav8006-hue/Leetcode/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
