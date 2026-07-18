@@ -1,4 +1,12 @@
 <h1 align="center">🚀 LeetCode Solutions</h1>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=prateekyadav8006-hue&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekyadav8006-hue&layout=compact&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/TechPrateek?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats"/>
+</p>
 
 <p align="center">
   <b>Consistent DSA Practice | C++ | Problem Solving</b>
